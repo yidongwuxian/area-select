@@ -6,7 +6,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, './dist'),
     publicPath: '/dist/',
-    filename: 'vue-area-select.js',
+    filename: 'vue-area-select-kirin.js',
     library:'AreaSelect',
     libraryTarget: 'umd',
   },

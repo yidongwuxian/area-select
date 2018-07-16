@@ -37,7 +37,7 @@
 <script>
 const areaData = require('./location.json')
 export default {
-  name: 'area-select',
+  name: 'area-select-kirin',
   data () {
     return {
       provinceData: areaData.result[0],
