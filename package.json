@@ -2,7 +2,7 @@
   "name": "area-select",
   "description": "A Vue.js project",
   "version": "1.0.0",
-  "author": "kirin",
+  "author": "kirin0918",
   "main": "dist/vue-area-select.js",
   "license": "MIT",
   "private": false,
