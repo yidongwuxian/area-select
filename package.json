@@ -1,9 +1,9 @@
 {
   "name": "area-select-kirin",
   "description": "A Vue.js project",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "kirin0918",
-  "main": "dist/vue-area-select.js",
+  "main": "dist/vue-area-select-kirin.js",
   "license": "MIT",
   "private": false,
   "scripts": {
