@@ -1,8 +1,8 @@
 import Vue from 'vue'
 import App from './App.vue'
-import AreaSelect from 'dist/area-select-kirin.js'
+import AreaSelectKirin from 'dist/area-select-kirin.js'
 
-Vue.use(AreaSelect)
+Vue.use(AreaSelectKirin)
 
 new Vue({
   el: '#app',

@@ -1,12 +1,12 @@
 <template>
   <div id="app">
     <button @click="showAreaSelect">点我</button>
-    <area-select :isShow="isShow"
+    <area-select-kirin :isShow="isShow"
                      :font-size="size"
                      active-color="green"
                      :line-height="height"
                      @fade="toggle"
-                     @selectdone="alertData"></area-select>
+                     @selectdone="alertData"></area-select-kirin>
   </div>
 </template>
 
