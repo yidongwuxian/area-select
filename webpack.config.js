@@ -6,8 +6,8 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, './dist'),
     publicPath: '/dist/',
-    filename: 'area-select-kirin.js',
-    library:  'area-select-kirin',
+    filename: 'area-select-davic.js',
+    library:  'area-select-davic',
     libraryTarget: 'umd',
   },
   module: {

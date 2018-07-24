@@ -1,4 +1,4 @@
-import AreaSelect from './components/area-select-kirin.vue'
+import AreaSelect from './components/area-select-davic.vue'
 
 const areaPlugin = {
   install: function(Vue){
